@@ -16,11 +16,11 @@ h2 {
 	font-size: 40px;
 }
 
-topbox {
+.topbox {
   background-color: #f3fffc ;
 }
 
-bottombox {
+.bottombox {
   background-color: #999b8f ;
 }
 
