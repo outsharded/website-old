@@ -16,6 +16,14 @@ h2 {
 	font-size: 40px;
 }
 
+#topbox {
+  background-color: #f3fffc ;
+}
+
+#bottombox {
+  background-color: #999b8f ;
+}
+
 /* This just centers the header container vertically on the page. */
 .container-fluid {
 	height: 200px;
