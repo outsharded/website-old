@@ -24,6 +24,14 @@ h2 {
 .bottombox {
   background-color: #999b8f ;
 }
+.box{  
+  background-color: #999b8f; 
+  position: absolute; 
+  height: 60%; 
+  width: 60%; 
+  left: 20%; 
+  top: 20%; 
+} 
 
 /* This just centers the header container vertically on the page. */
 .container-fluid {
