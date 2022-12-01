@@ -17,6 +17,13 @@ h2 {
 	font-size: 40px;
 }
 
+p {
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+}
+
 footer {
 	background-color: #529390;
 	text-align: center;
