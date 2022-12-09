@@ -8,6 +8,21 @@
     <meta charset="utf-8">
     <title>tectrainguy</title>
     <link rel="shortcut icon" type="image/jpg" href="icon.png"/>
+
+  <script>
+    function ToggleDarkMode() {
+        var element = document.body;
+        element.classList.toggle("dark");
+    }
+    let isDarkMode= window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if(isDarkMode){
+            console.log('Currently in dark mode');
+            ToggleDarkMode();
+        }
+        else{
+            console.log('Currently not in dark mode');
+        }
+  </script>
     <meta name="theme-color" 
     content="#eed764" 
     media="(prefers-color-scheme: light)">

@@ -59,3 +59,11 @@ p {
 	bottom: 50px;
 	width: 100%;
 }
+
+/* Dark mode */
+
+
+.dark{
+    background-color: #222;
+    color: #e6e6e6;
+}
