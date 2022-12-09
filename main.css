@@ -1,5 +1,5 @@
 body {
-	background-color: #0c3807;
+	background-color: #265420;
 	background-size: cover; /* Image covers page. */
 	background-repeat: no-repeat; /* Image does not repeat. */
 	background-attachment: fixed; /* Image doesn't move when you scroll up or down. */
@@ -60,10 +60,4 @@ p {
 	width: 100%;
 }
 
-/* Dark mode */
 
-
-.dark{
-    background-color: #222;
-    color: #e6e6e6;
-}
