@@ -1,11 +1,11 @@
 body {
-	background-color: #0b3e05;
+	background-color: #0c3807;
 	background-size: cover; /* Image covers page. */
 	background-repeat: no-repeat; /* Image does not repeat. */
 	background-attachment: fixed; /* Image doesn't move when you scroll up or down. */
 	background-position: top;
 	text-align: center;
-	color: #f3fffc; /* Text color. */
+	color: #eed764; /* Text color. */
 	font-family: 'Avenir', sans-serif; /* Font: sans-serif included in case browser doesn't support first option. */
 }
 
@@ -49,13 +49,13 @@ p {
 
 /* Styling for icons. */
 .fa {
-	color: white;
+	color: #eed764;
 	margin: 10px 5px;
 	font-size: 3em !important;
 }
 
 .footer {
 	position: absolute;
-	bottom: 0;
+	bottom: 50px;
 	width: 100%;
 }
