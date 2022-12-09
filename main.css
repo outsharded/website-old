@@ -5,7 +5,7 @@ body {
 	background-attachment: fixed; /* Image doesn't move when you scroll up or down. */
 	background-position: top;
 	text-align: center;
-	color: #eed764; /* Text color. */
+	color: #efd346; /* Text color. */
 	font-family: 'Avenir', sans-serif; /* Font: sans-serif included in case browser doesn't support first option. */
 }
 
@@ -49,7 +49,7 @@ p {
 
 /* Styling for icons. */
 .fa {
-	color: #eed764;
+	color: #efd346;
 	margin: 10px 5px;
 	font-size: 3em !important;
 }
